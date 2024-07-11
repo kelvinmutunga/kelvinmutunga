@@ -1,8 +1,9 @@
 # Kelvin Mutunga 💻 📊 - Data Analyst Portfolio
 
-A passionate data analyst with a BSc in Applied Statistics with Programming.
+Hi, I'm Kelvin Muithya, a passionate data analyst with a solid background in Applied Statistics with Programming. I have developed strong analytical and technical skills and am enthusiastic about leveraging data to uncover insights and drive decision-making.
 
-Hi, I'm Kelvin! I have a solid background in Applied Statistics with Programming. I have developed strong analytical and technical skills, and I am enthusiastic about leveraging data to uncover insights and drive decision-making. My expertise spans a range of tools and programming languages essential for data analysis.
+My expertise spans a range of essential tools and programming languages, including Excel, Python, R, Julia, Biopython, Bioconductor, SAS JMP, Looker Data Studio, and Power BI. 
+Through my work, I aim to transform data into actionable intelligence, helping organizations make informed decisions.
 
 ## Skills
 - 🟢 Excel
