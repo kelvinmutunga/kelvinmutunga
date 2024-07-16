@@ -39,6 +39,7 @@ Through my work, I aim to transform data into actionable intelligence, helping o
 ![SAS JMP](https://img.shields.io/badge/-SAS%20JMP-0033A0?style=flat&logo=sas&logoColor=white)
 ![Looker Data Studio](https://img.shields.io/badge/-Looker%20Data%20Studio-4285F4?style=flat&logo=google&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white)
+![QGIS](https://img.shields.io/badge/-QGIS-3CAA69?style=flat&logo=qgis&logoColor=white)
 
 ## GitHub Stats
 ![Kelvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelvinmutunga&show_icons=true&theme=radical)
