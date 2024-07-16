@@ -15,6 +15,8 @@ Through my work, I aim to transform data into actionable intelligence, helping o
 - 🧪 SAS JMP
 - 🖥️ Looker Data Studio
 - 📈 Power BI
+- 🌐 HTML
+- 📊 D3.js
 
 ## About Me
 - 🌟 I am always looking to expand my knowledge and skills in data analysis.
@@ -40,6 +42,8 @@ Through my work, I aim to transform data into actionable intelligence, helping o
 ![Looker Data Studio](https://img.shields.io/badge/-Looker%20Data%20Studio-4285F4?style=flat&logo=google&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white)
 ![QGIS](https://img.shields.io/badge/-QGIS-3CAA69?style=flat&logo=qgis&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?style=flat&logo=d3.js&logoColor=white)
 
 ## GitHub Stats
 ![Kelvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelvinmutunga&show_icons=true&theme=radical)
