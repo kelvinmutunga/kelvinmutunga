@@ -25,9 +25,9 @@ Through my work, I aim to transform data into actionable intelligence, helping o
 - 📫 How to reach me: kelvinmuithya99@gmail.com
   
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/kelvin-muithya-a4952825a)
-- [X](https://x.com/Kelvin2040055)
-- [Kaggle](https://www.kaggle.com/kelvinmuithya)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-muithya-a4952825a)
+[![X](https://img.shields.io/badge/-X-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://x.com/Kelvin2040055)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/kelvinmuithya)
 
 ## Languages and Tools
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
