@@ -19,6 +19,7 @@ Through my work, I aim to transform data into actionable intelligence, helping o
 - 📊 D3.js
 - 📝 ODK
 - 🗂️ SurveyCTO
+- 🎨 CSS
 
 ## About Me
 - 🌟 I am always looking to expand my knowledge and skills in data analysis.
@@ -48,7 +49,7 @@ Through my work, I aim to transform data into actionable intelligence, helping o
 ![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?style=flat&logo=d3.js&logoColor=white)
 ![ODK](https://img.shields.io/badge/-ODK-FF8C00?style=flat&logo=odk&logoColor=white)
 ![SurveyCTO](https://img.shields.io/badge/-SurveyCTO-008CBA?style=flat&logo=surveycto&logoColor=white)
-
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ## GitHub Stats
 ![Kelvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelvinmutunga&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinmutunga&layout=compact&theme=radical)
