@@ -8,6 +8,8 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
 
 This is a repository to showcase my skills, share projects, and track my progress in Data Analytics / Data Science related topics.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kelvinmutunga&label=Profile%20views&color=0e75b6&style=flat" alt="kelvinmutunga" /> </p>
+
 ## Languages and Tools
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
