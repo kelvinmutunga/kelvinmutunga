@@ -2,7 +2,7 @@
 
 Hi, I'm Kelvin! passionate data analyst.I have a solid background in Applied Statistics with Programming. I have developed strong analytical and technical skills, and I am enthusiastic about leveraging data to uncover insights and drive decision-making. My expertise spans a range of tools and programming languages essential for data analysis.
 
-During my studies, I honed my ability to work with complex datasets and developed a keen eye for identifying patterns and trends. I gained experience in data management, statistical analysis, and programming, which I believe are invaluable in the field of data science.
+I honed my ability to work with complex datasets and developed a keen eye for identifying patterns and trends. I gained experience in data management, statistical analysis, and programming, which I believe are invaluable in the field of data science.
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
