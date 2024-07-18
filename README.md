@@ -58,15 +58,9 @@ This repository showcases my skills, shares projects, and tracks my progress in 
 [![X](https://img.shields.io/badge/-X-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://x.com/Kelvin2040055)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/kelvinmuithya)
 
-### OS:
-| Linux | Ubuntu | Kali |
-|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Kali Linux" alt="Kali Linux" width="55" height="55"/> 
-
 ## GitHub Stats
 ![Kelvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelvinmutunga&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinmutunga&layout=compact&theme=radical)
-
 
 ## Contributions
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kelvinmutunga&theme=radical)
