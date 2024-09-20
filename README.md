@@ -1,6 +1,6 @@
 # Kelvin Mutunga 💻 📊 - Data Analyst/Data Scientist Portfolio
 
-Hi, I'm Kelvin! passionate data analyst. I have a solid background in Applied Statistics with Programming. I have developed strong analytical and technical skills, and I am enthusiastic about leveraging data to uncover insights and drive decision-making. My expertise spans a range of tools and programming languages essential for data analysis.
+Hi, I'm Kelvin! passionate Data Analyst/Data Scientist. I have a solid background in Applied Statistics with Programming. I have developed strong analytical and technical skills, and I am enthusiastic about leveraging data to uncover insights and drive decision-making. My expertise spans a range of tools and programming languages essential for data analysis.
 
 I honed my ability to work with complex datasets and developed a keen eye for identifying patterns and trends. I gained experience in data management, statistical analysis, and programming, which are invaluable in the field of data science.
 
