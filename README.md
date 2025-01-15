@@ -1,3 +1,20 @@
+
+<div style="display: flex; flex-direction: column; align-items: center; font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333;">
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/XiaomingX/count.svg" alt="Visitor's Count" />
+</div>
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=kelvinmutunga&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="XiaomingX's GitHub Stats" />
+  <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs?username=kelvinmutunga&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=2&border_radius=10&show_icons=true&locale=en" alt="XiaomingX's Most Used Languages" />
+</div>
+  <a href="https://github.com/kelvinmutunga/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kelvinmutunga&theme=xcode&hide_border=true" alt="Activity graph">
+</a>
+
+  <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
+  <div style="text-align: center;">
+
 # Kelvin Mutunga 💻 📊 - Data Analyst/Data Scientist Portfolio
 
 Hi, I'm Kelvin! passionate Data Analyst/Data Scientist. I have a solid background in Applied Statistics with Programming. I have developed strong analytical and technical skills, and I am enthusiastic about leveraging data to uncover insights and drive decision-making. My expertise spans a range of tools and programming languages essential for data analysis.
